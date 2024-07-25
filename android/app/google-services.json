@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892457347575",
+    "project_id": "phone-auth-e0630",
+    "storage_bucket": "phone-auth-e0630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892457347575:android:9d6974caf1ef61fa50a6f2",
+        "android_client_info": {
+          "package_name": "com.example.attendence_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGQmqMlLMcbS7nt0vGL0cKPNgWP1cCss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
